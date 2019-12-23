@@ -1,0 +1,7 @@
+Credentials cache: API:1424496
+        Principal: tcampos-@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 20 18:23:33 2019  Nov 21 04:23:34 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 20 18:23:34 2019  Nov 21 04:23:34 2019  HTTP/student-storage.42sp.org.br@42SP.ORG.BR
+Nov 20 19:54:15 2019  Nov 21 04:23:34 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
